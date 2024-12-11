@@ -26,7 +26,6 @@ Flask-Session==0.8.0
 fonttools==4.54.1
 greenlet==3.1.1
 gunicorn==23.0.0
-help50==3.0.5
 html5lib==1.1
 icdiff==2.0.7
 idna==3.10
@@ -38,7 +37,6 @@ jellyfish==0.11.2
 Jinja2==3.1.4
 jsbeautifier==1.15.1
 kiwisolver==1.4.7
-lib50==3.0.11
 MarkupSafe==3.0.2
 matplotlib==3.9.2
 more-itertools==10.5.0
@@ -70,7 +68,6 @@ python-dateutil==2.9.0.post0
 python-magic==0.4.27
 pytz==2024.2
 PyYAML==6.0.2
-render50==9.2.7
 requests==2.32.3
 setuptools==75.2.0
 six==1.16.0
@@ -78,7 +75,6 @@ sortedcontainers==2.4.0
 soupsieve==2.6
 SQLAlchemy==2.0.36
 sqlparse==0.5.1
-submit50==3.1.5
 termcolor==1.1.0
 tinycss2==1.4.0
 tqdm==4.66.6
